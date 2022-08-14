@@ -6,6 +6,8 @@
   ▀▀▀  ▀  ▀ .▀▀▀  ▀█▄▀▪▀▀ █▪▀▀▀  ▀█▄▀▪•▀▀ ▀▀
 </pre><div align=left>
 
+![](https://komarev.com/ghpvc/?username=Talon396)
+
 Hello! I'm Talon396 (aka TalonFox)
 
 I mostly code stuff in the Rust Programming Language.

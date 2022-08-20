@@ -14,6 +14,7 @@ I mostly code stuff in the Rust Programming Language.
 I enjoy writing baremetal programs and making small operating systems.
 
 Some of the projects that I'm currently working on include:
+- [🐦 Ravenstone](https://github.com/Talon396/Ravenstone)
 - [🦉 owlOS](https://github.com/Talon396/owlOS)
 - [🐺 WolfBox](https://github.com/Talon396/WolfBox)
 

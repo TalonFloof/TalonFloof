@@ -19,6 +19,8 @@ Some of the projects that I'm currently working on include:
 - [🐺 WolfBox](https://github.com/Talon396/WolfBox)
 - [🐦 Ravenstone](https://github.com/Talon396/Ravenstone)
 
+Also I recently switched from Pop_OS to Arch Linux!
+
 ## Stats
 [![GitHub ReadMe Stats](https://github-readme-stats.vercel.app/api?username=Talon396&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talon396&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)

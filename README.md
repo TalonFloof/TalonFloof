@@ -20,6 +20,7 @@ Some of the projects that I'm currently working on include:
 - [🐦 Ravenstone](https://github.com/Talon396/Ravenstone)
 
 Also I recently switched from Pop_OS to Arch Linux!
+<img src="https://raw.githubusercontent.com/Talon396/Talon396/main/Desktop%20Screenshot.png" width="640">
 
 ## Stats
 [![GitHub ReadMe Stats](https://github-readme-stats.vercel.app/api?username=Talon396&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

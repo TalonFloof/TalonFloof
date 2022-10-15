@@ -10,8 +10,8 @@
 
 Hello! I'm Talon396 (aka TalonFox)
 
-I mostly code stuff in the Rust Programming Language.
-I enjoy writing baremetal programs and making small operating systems.
+I mostly code stuff in Rust, Java, and Kotlin (though I know more languages).
+I enjoy writing baremetal programs, making small operating systems, and creating mods for games like Minecraft.
 
 Some of the projects that I'm currently working on include:
 - [🌩🌨🌪 Enhanced Weather](https://github.com/Talon396/EnhancedWeather)

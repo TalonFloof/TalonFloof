@@ -16,7 +16,6 @@ I enjoy writing baremetal programs, making small operating systems, and creating
 Some of the projects that I'm currently working on include:
 - [🌩🌨🌪 Enhanced Weather](https://github.com/Talon396/EnhancedWeather)
 - [🦉 owlOS](https://github.com/Talon396/owlOS)
-- [🐺 WolfBox](https://github.com/Talon396/WolfBox)
 - [🐦 Ravenstone](https://github.com/Talon396/Ravenstone)
 
 Also I recently switched from Pop_OS to Arch Linux!

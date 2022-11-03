@@ -15,6 +15,7 @@ I enjoy writing baremetal programs, making small operating systems, and creating
 
 Some of the projects that I'm currently working on include:
 - [🌩🌨🌪 Enhanced Weather](https://github.com/Talon396/EnhancedWeather)
+- [🦊 Vulpes](https://github.com/VulpesMC)
 - [🦉 owlOS](https://github.com/Talon396/owlOS)
 - [🐦 Ravenstone](https://github.com/Talon396/Ravenstone)
 

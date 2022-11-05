@@ -17,10 +17,14 @@ Some of the projects that I'm currently working on include:
 - [🌩🌨🌪 Enhanced Weather](https://github.com/Talon396/EnhancedWeather)
 - [🦊 Vulpes](https://github.com/VulpesMC)
 - [🦉 owlOS](https://github.com/Talon396/owlOS)
-- [🐦 Ravenstone](https://github.com/Talon396/Ravenstone)
 
-Also I recently switched from Pop_OS to Arch Linux!
-<img src="https://raw.githubusercontent.com/Talon396/Talon396/main/Desktop%20Screenshot.png" width="640">
+### Programming Languages and Technologies I know
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,forth,git,github,gradle,gtk,html,idea,java,js,kotlin,linux,lua,md,maven,neovim,py,rust,svg,ts,v,vscode" />
+  </a>
+</p>
 
 ## Stats
 [![GitHub ReadMe Stats](https://github-readme-stats.vercel.app/api?username=Talon396&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

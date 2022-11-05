@@ -18,7 +18,7 @@ Some of the projects that I'm currently working on include:
 - [🦊 Vulpes](https://github.com/VulpesMC)
 - [🦉 owlOS](https://github.com/Talon396/owlOS)
 
-### Programming Languages and Technologies I know
+### Programming Languages and Technologies I know how to use
 
 <p align="center">
   <a href="https://skillicons.dev">

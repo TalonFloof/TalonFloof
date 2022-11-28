@@ -14,9 +14,9 @@ I mostly code stuff in Rust, Java, and Kotlin (though I know more languages).
 I enjoy writing baremetal programs, making small operating systems, and creating mods for games like Minecraft.
 
 Some of the projects that I'm currently working on include:
+- [🦊 zorroOS](https://github.com/Talon396/zorroOS)
 - [🌩🌨🌪 Enhanced Weather](https://github.com/Talon396/EnhancedWeather)
 - [🦊 Vulpes](https://github.com/VulpesMC)
-- [🦊 zorroOS](https://github.com/Talon396/zorroOS)
 
 ---
 

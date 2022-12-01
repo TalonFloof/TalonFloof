@@ -10,7 +10,7 @@
 
 Hello! I'm Talon396 (aka TalonFox)
 
-I mostly code stuff in Rust, Java, and Kotlin (though I know more languages).
+I mostly code stuff in C++, V, Go, Java, and Kotlin (though I know more languages).
 I enjoy writing baremetal programs, making small operating systems, and creating mods for games like Minecraft.
 
 Some of the projects that I'm currently working on include:
@@ -24,7 +24,7 @@ Some of the projects that I'm currently working on include:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,forth,git,github,gradle,gtk,html,idea,java,js,kotlin,linux,lua,md,maven,neovim,py,rust,svg,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,forth,git,github,gradle,gtk,html,idea,java,js,kotlin,linux,lua,md,maven,neovim,py,rust,svg,ts,v,vscode" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ Some of the projects that I'm currently working on include:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=v,go,zig" />
+    <img src="https://skillicons.dev/icons?i=go,zig" />
   </a>
 </p>
 

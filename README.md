@@ -8,45 +8,36 @@
 
 ![](https://komarev.com/ghpvc/?username=Talon396)
 
-Hello! I'm Talon396 (aka TalonFox)
-
-I mostly code stuff in C++, V, Go, Java, and Kotlin (though I know more languages).
-I enjoy writing baremetal programs, making small operating systems, and creating mods for games like Minecraft.
-
-Some of the projects that I'm currently working on include:
-- [🦊 zorroOS](https://github.com/Talon396/zorroOS)
-- [🌩🌨🌪 Enhanced Weather](https://github.com/Talon396/EnhancedWeather)
-- [🦊 Vulpes](https://github.com/VulpesMC)
-
+```v
+fn main() {
+    profile_information := ProfInfo{
+        aliases: [
+            "TalonFox", // Prefered Alias
+            "Talon", // Prefered Alias
+            "TalonIsAFox",
+            "Talon396",
+            "ItsTalon25"
+        ],
+        languages: ["C","C++","Go","Zig","Rust","V","Forth",
+        "6502 Assembly","x86 Assembly","RISC-V Assembly",
+        "Java","Kotlin","Python", "Lua","Javascript","Typescript","HTML5/CSS3"],
+        favorite_languages: ["V","Rust","Go"],
+        current_projects: [
+            "🦊 zorroOS",
+            "🌩🌨🌪 Enhanced Weather",
+            "🦊 Vulpes"
+        ],
+        hobbies: [
+            "Coding", // Duh
+            "Art",
+            "Playing Minecraft"
+        ],
+        website: "https://talon396.github.io",
+        pronouns: "He/Him"
+    } // :3
+}
+```
 ---
-
-**Programming Languages and Technologies I know how to use**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,forth,git,github,gradle,gtk,html,idea,java,js,kotlin,linux,lua,md,maven,neovim,py,rust,svg,ts,v,vscode" />
-  </a>
-</p>
-
-**Programming Languages and Technologies I'm currently learning**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,zig" />
-  </a>
-</p>
-
-**Programming Languages and Technologies I want to learn eventually**
-  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nodejs,haskell,qt,scala,bevy,godot,androidstudio" />
-  </a>
-</p>
-
----
-
-## Stats
-[![GitHub ReadMe Stats](https://github-readme-stats.vercel.app/api?username=Talon396&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talon396&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub ReadMe Stats](https://github-readme-stats.vercel.app/api?username=Talon396&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talon396&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)    
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talon396&layout=compact&theme=tokyonight&hide=makefile&langs_count=16&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

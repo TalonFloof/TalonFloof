@@ -18,6 +18,7 @@ fn main() {
             "Talon396",
             "ItsTalon25"
         ],
+        is_a_fox: true, // :3
         languages: ["C","C++","Go","Zig","Rust","V","Forth",
         "6502 Assembly","x86 Assembly","RISC-V Assembly",
         "Java","Kotlin","Python", "Lua","Javascript","Typescript","HTML5/CSS3"],
@@ -34,7 +35,7 @@ fn main() {
         ],
         website: "https://talon396.github.io",
         pronouns: "He/Him"
-    } // :3
+    }
 }
 ```
 ---

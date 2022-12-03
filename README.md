@@ -29,7 +29,7 @@ fn main() {
             "🦊 Vulpes"
         ],
         hobbies: [
-            "Coding", // Duh
+            "Programming", // Duh
             "Art",
             "Playing Minecraft"
         ],

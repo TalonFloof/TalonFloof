@@ -41,5 +41,5 @@ fn main() {
 ---
 [![GitHub ReadMe Stats](https://github-readme-stats.vercel.app/api?username=Talon396&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talon396&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)    
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talon396&layout=compact&theme=tokyonight&hide=makefile&langs_count=16&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talon396&layout=compact&theme=tokyonight&hide=makefile,glsl,cmake,shell&langs_count=16&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
 [![Most Contributed Repositoroes](https://api.githubtrends.io/user/svg/Talon396/repos?time_range=one_year&include_private=True&group=private&theme=dark)](https://github.com/avgupta456/github-trends)

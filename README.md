@@ -6,8 +6,6 @@
   ▀▀▀  ▀  ▀ .▀▀▀  ▀█▄▀▪▀▀ █▪▀▀▀  ▀█▄▀▪•▀▀ ▀▀
 </pre><div align=left>
 
-![](https://komarev.com/ghpvc/?username=Talon396)
-
 ```v
 fn main() {
     profile_information := ProfInfo{

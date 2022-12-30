@@ -20,7 +20,7 @@ fn main() {
         languages: ["C","C++","Go","Zig","Rust","V","Forth",
         "6502 Assembly","x86 Assembly","RISC-V Assembly",
         "Java","Kotlin","Python", "Lua","Javascript","Typescript","HTML5/CSS3"],
-        favorite_languages: ["V","Rust","Go"],
+        favorite_languages: ["V","C","Rust","Go"],
         current_projects: [
             "🦊 zorroOS",
             "🌩🌨🌪 Enhanced Weather",

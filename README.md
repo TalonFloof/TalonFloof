@@ -8,7 +8,7 @@
 
 ```v
 fn main() {
-    profile_information := ProfInfo{
+    profile_info := ProfInfo{
         aliases: [
             "TalonFox", // Prefered Alias
             "Talon", // Prefered Alias

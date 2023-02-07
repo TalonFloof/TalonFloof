@@ -29,7 +29,7 @@ fn main() {
             "Art",
             "Playing Minecraft"
         ],
-        website: "https://talon396.github.io",
+        website: "https://talonfox.github.io",
         pronouns: "He/Him"
     }
 }

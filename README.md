@@ -11,14 +11,13 @@ fn main() {
     profile_info := ProfInfo{
         aliases: [
             "TalonFox", // Prefered Alias
-            "Talon", // Prefered Alias
-            "ItsTalon25"
+            "Talon"
         ],
         is_a_fox: true, // :3
-        languages: ["C","C++","Go","Zig","Rust","V","Forth",
-        "6502 Assembly","x86 Assembly","RISC-V Assembly",
+        languages: ["C","C++","Go","Zig","Rust","V","Vos","Forth",
+        "6502 Assembly","Z80 Assembly","x86 Assembly","RISC-V Assembly",
         "Java","Kotlin","Python", "Lua","Javascript","Typescript","HTML5/CSS3"],
-        favorite_languages: ["V","C","Rust","Go"],
+        favorite_languages: ["C","V","Rust","Go"],
         current_projects: [
             "🦊 zorroOS",
             "🌩🌨🌪 Enhanced Weather",

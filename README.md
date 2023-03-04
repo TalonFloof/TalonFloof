@@ -19,13 +19,13 @@ fn main() {
         "Java","Kotlin","Python", "Lua","Javascript","Typescript","HTML5/CSS3"],
         favorite_languages: ["C","V","Rust","Go"],
         current_projects: [
-            "🦊 zorroOS",
-            "🌩🌨🌪 Enhanced Weather",
-            "🦊 Vulpes"
+            "🐺 OkamiStation",
+            "🦊 zorroOS"
         ],
         hobbies: [
             "Programming", // Duh
             "Art",
+            "Retrogaming",
             "Playing Minecraft"
         ],
         website: "https://talonfox.github.io",

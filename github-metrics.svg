@@ -30,14 +30,14 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1408 Commits
+                            1409 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="123.93415016816738" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="123.93415016816738" y="0" width="103.37502242998394" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="227.30917259815132" y="0" width="95.8713416121062" height="8" fill="#ec915c"/>
-                    <rect mask="url(#languages-bar)" x="323.1805142102575" y="0" width="48.31769369153826" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="371.49820790179575" y="0" width="42.70163980436453" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="414.1998477061603" y="0" width="28.60436038887841" height="8" fill="#4f87c4"/>
-                    <rect mask="url(#languages-bar)" x="442.80420809503875" y="0" width="11.228668510142954" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="454.0328766051817" y="0" width="5.967123394818328" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="123.9654587424507" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="123.9654587424507" y="0" width="103.36539180381227" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="227.330850546263" y="0" width="95.86241004401617" height="8" fill="#ec915c"/>
+                    <rect mask="url(#languages-bar)" x="323.1932605902792" y="0" width="48.31319231746857" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="371.50645290774776" y="0" width="42.69766163323377" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="414.2041145409815" y="0" width="28.601695548810575" height="8" fill="#4f87c4"/>
+                    <rect mask="url(#languages-bar)" x="442.8058100897921" y="0" width="11.227622424673905" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="454.03343251446597" y="0" width="5.966567485534008" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -331,7 +331,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.51
+                            Average per day at ~2.50
                         </div>
                     </section>
                 </div>
@@ -2291,7 +2291,12 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3529411764705883 0,1.3529411764705883 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3529411764705883 1.7,2.3529411764705883 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
+                            <g transform="translate(-5.1, 8.647058823529411)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3529411764705883 0,1.3529411764705883 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3529411764705883 1.7,2.3529411764705883 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
@@ -2309,6 +2314,28 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TalonFloof/zorroOS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2d62a91</div>
+                                        <div class="message">hmmmm
+
+Signed-off-by: TalonFloof &lt;105325988+TalonFloof@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2393,26 +2420,6 @@ Signed-off-by: TalonFloof &lt;105325988+TalonFloof@users.noreply.github.com&gt;<
                                         <div class="message">uwu
 
 Signed-off-by: TalonFloof &lt;105325988+TalonFloof@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TalonFloof/TalonFloof</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a0ed3ba</div>
-                                        <div class="message">Update metrics.yaml</div>
                                     </div>
                                 </div>
                             </section>
@@ -2592,7 +2599,7 @@ Signed-off-by: TalonFloof &lt;105325988+TalonFloof@users.noreply.github.com&gt;<
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.97m out of 125m users</span>
+                                    <span class="gh">ranked 4.97m out of 126m users</span>
                                 </div>
                                 <div class="text">Published 12 public repositories</div>
                             </div>
@@ -2644,7 +2651,7 @@ Signed-off-by: TalonFloof &lt;105325988+TalonFloof@users.noreply.github.com&gt;<
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 148k out of 125m users</span>
+                                    <span class="gh">ranked 148k out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 72 users</div>
                             </div>
@@ -2717,7 +2724,7 @@ Signed-off-by: TalonFloof &lt;105325988+TalonFloof@users.noreply.github.com&gt;<
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 530k out of 54.2m repositories</span>
+                                    <span class="gh">ranked 530k out of 54.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 55 stars</div>
                             </div>
@@ -2773,7 +2780,7 @@ Signed-off-by: TalonFloof &lt;105325988+TalonFloof@users.noreply.github.com&gt;<
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.153319644079391 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.365503080082126 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2840,7 +2847,7 @@ Signed-off-by: TalonFloof &lt;105325988+TalonFloof@users.noreply.github.com&gt;<
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.12m out of 54.2m repositories</span>
+                                    <span class="gh">ranked 2.12m out of 54.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -3110,7 +3117,7 @@ Signed-off-by: TalonFloof &lt;105325988+TalonFloof@users.noreply.github.com&gt;<
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2023, 18:52:30 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2023, 18:52:52 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
